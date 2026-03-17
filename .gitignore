@@ -8,3 +8,7 @@ __pycache__/
 .pytest_cache/
 integration_test.sh
 scripts/
+.cline/
+.cline-state/
+_diagnostics/
+*.egg-info/
