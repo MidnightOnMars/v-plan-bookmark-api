@@ -1,0 +1,9 @@
+{
+  "name": "bookmark-cli",
+  "version": "1.0.0",
+  "description": "CLI client for BookmarkAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no unit tests\" && exit 0"
+  }
+}
